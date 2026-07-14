@@ -149,5 +149,3 @@ The system can identify:
 
 **Sanjana H. Kurtakoti**
 ---
-
-## ⭐ If you found this project useful, consider giving it a Star!
